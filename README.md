@@ -1,2 +1,3 @@
 # hello-world
 testar / lär mig hur detta fungerar 
+Hej, jag har aldrig programmerat förut. Fattar inte så mycket. Får se hur det går...
